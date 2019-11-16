@@ -1,8 +1,8 @@
 #麻将
 ##码匠社区学习
-https://spring.io/guides
-https://spring.io/guides/gs/serving-web-content/
-https://elasticserch.cn/explore
+[spring](https://spring.io/guides)
+[spring-web-content](https://spring.io/guides/gs/serving-web-content/)
+[社区](https://elasticserch.cn/explore)
 ###小匠###
 
 ####工具
